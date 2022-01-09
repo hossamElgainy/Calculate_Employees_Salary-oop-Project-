@@ -10,11 +10,7 @@
 
 ### Types of employees
 
-- **directors**
-Managers's allowance(5% of total Salary)
-- **Maintenance**
-Hardship allowance(100$/month)
-- **Sales**
-commission percentage on volume of sales
-- **Programmers**
-bonus 3% of the total salary if all assigned task were accomplished
+- **directors:** Managers's allowance(5% of total Salary)
+- **Maintenance:** Hardship allowance(100$/month)
+- **Sales:** commission percentage on volume of sales
+- **Programmers:** bonus 3% of the total salary if all assigned task were accomplished
