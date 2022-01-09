@@ -3,9 +3,13 @@
 
 ## Requirments:App to clalulate the monthly Salary Slip
 **Minimum Hours Required:** 176 Hours (8*22)
+
 **Basic Salary:** 176*Wage
+
 **Overtime:** Additional hours*1.25*hours cost
-Types of employees
+
+### Types of employees
+
 - **directors**
 Managers's allowance(5% of total Salary)
 - **Maintenance**
